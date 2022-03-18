@@ -9,10 +9,10 @@ repository = "https://github.com/malte-v/redisgraph-rs"
 documentation = "https://docs.rs/redisgraph"
 license = "MIT"
 readme = "README.md"
-edition = "2018"
+edition = "2021"
 
 [dependencies]
-redis = "0.15.1"
+redis = "0.21.5"
 num = "0.2.1"
 num-derive = "0.3.0"
 num-traits = "0.2.11"
